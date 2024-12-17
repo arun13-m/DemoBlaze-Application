@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-17T14:26:53 IST" name="Suite" finished-at="2024-12-17T14:27:03 IST" duration-ms="10121">
+    <groups>
+    </groups>
+    <test started-at="2024-12-17T14:26:53 IST" name="Chrome Test" finished-at="2024-12-17T14:27:03 IST" duration-ms="10121">
+      <class name="test.TC_006_LogoutTest">
+        <test-method is-config="true" signature="reportInitialization()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:26:52 IST" name="reportInitialization" finished-at="2024-12-17T14:26:53 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportInitialization -->
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:26:53 IST" name="dataSetup" finished-at="2024-12-17T14:26:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:26:53 IST" name="testDetails" finished-at="2024-12-17T14:26:53 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchBrowserAndURL(java.lang.String)[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:26:53 IST" name="launchBrowserAndURL" finished-at="2024-12-17T14:26:57 IST" duration-ms="4022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndURL -->
+        <test-method signature="logoutTest()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:26:57 IST" name="logoutTest" finished-at="2024-12-17T14:27:02 IST" duration-ms="5600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:27:02 IST" name="closeBrowser" finished-at="2024-12-17T14:27:03 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:test.TC_006_LogoutTest@1189dd52]" started-at="2024-12-17T14:27:03 IST" name="closeReport" finished-at="2024-12-17T14:27:03 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- test.TC_006_LogoutTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
